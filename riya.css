@@ -71,10 +71,6 @@ html, body {
     height: 35%;
     background-color: cadetblue;
 }
-.firstslide .left img{
-    /* opacity: 0; */
-    /* z-index: 1; */
-}
 #lastimg{
     opacity: 0;
 }
